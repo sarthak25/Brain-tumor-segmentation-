@@ -11,5 +11,7 @@ The algorithm has two stages, first is pre-processing of given MRI image and aft
 5) Compute morphological operation. 
 6) Finally output will be a tumour region.  
 
+preprocessing of the mri scans need to be done
+
  
  
